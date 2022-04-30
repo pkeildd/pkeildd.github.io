@@ -28,5 +28,3 @@ int main(){
   hello world;
 }
 ```
-
-![24110307_5](/../pkeildd.github.io/assets/blog_res/24110307_5-16513319248131.jpg)
